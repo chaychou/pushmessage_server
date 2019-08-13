@@ -4,7 +4,7 @@ black==19.3b0
 certifi==2019.3.9
 chardet==3.0.4
 Click==7.0
-Django>=2.2.2
+Django>=2.2.1
 django-multiselectfield==0.1.8
 idna==2.8
 jpush==3.3.6
