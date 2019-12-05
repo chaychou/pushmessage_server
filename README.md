@@ -1,4 +1,4 @@
-### 基于django+jpush的移动端推送后台
+### 基于django+jpush的移动端推送
 
 **可以根据不同手机系统（IOS和Android）进行消息推送，**
 
